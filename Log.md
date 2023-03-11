@@ -1,6 +1,7 @@
 ---
 ## 2023-3-12
-打卡：[785 快速排序](acwing-algorith-basic/S1BasicAlgorithm/785.md) 
+打卡：  
+[785 快速排序](acwing-algorith-basic/S1BasicAlgorithm/785.md)  
 [786 第k个数](acwing-algorith-basic/S1BasicAlgorithm/786.md) 
 
 
