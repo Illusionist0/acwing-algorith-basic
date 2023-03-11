@@ -17,7 +17,7 @@
 
 ### 位运算
 
-- [ ] [801 位运算](S1BasicAlgorithm/801.md)
+- [x] [801 二进制中1的个数](S1BasicAlgorithm/801.md)
 
 ---
 ## 第二讲 数据结构
