@@ -1,6 +1,6 @@
 ---
 ## 2023-3-12
-打卡：[785](acwing-algorith-basic/第一讲 基础算法/785.md)、786、787
+打卡：[785](acwing-algorith-basic/Readme.md)、786、787
 
 ---
 ## 2023-3-13
