@@ -10,6 +10,10 @@
 [787 归并排序](S1BasicAlgorithm/787.md)
 
 [788 逆序对数量](S1BasicAlgorithm/788.md) 
+### 二分
+[789 数的范围](S1BasicAlgorithm/789.md) 
+
+[790 数的三次方根](S1BasicAlgorithm/790.md) 
 
 ---
 ## 第二讲 数据结构
